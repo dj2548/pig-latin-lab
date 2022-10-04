@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\bin\Debug\net6.0\pig latin 2.exe
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\bin\Debug\net6.0\pig latin 2.deps.json
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\bin\Debug\net6.0\pig latin 2.runtimeconfig.json
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\bin\Debug\net6.0\pig latin 2.dll
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\bin\Debug\net6.0\pig latin 2.pdb
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.AssemblyInfo.cs
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.dll
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\refint\pig latin 2.dll
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.pdb
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\pig latin 2.genruntimeconfig.cache
+C:\Users\Somber\source\repo 2\pig latin 2\pig latin 2\obj\Debug\net6.0\ref\pig latin 2.dll
